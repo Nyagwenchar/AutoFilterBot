@@ -6,7 +6,11 @@ services:
       API_HASH: $API_HASH  
       BOT_TOKEN: $BOT_TOKEN 
       ADMINS: $ADMINS
-      FORCESUB: $FORCESUB
+      CHANNELS: $CHANNELS
+      AUTH_CHANNEL: $AUTH_CHANNEL
+      AUTH_USERS: $AUTH_USERS
+      DATABASE_URI: $DATABASE_URI
+      LOG_CHANNEL: $LOG_CHANNEL
     ports:
       - 8080
     resources:
