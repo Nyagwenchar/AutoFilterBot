@@ -2,6 +2,7 @@
 
 ## Features
 
+- [x] Url shlrtner 
 - [x] Auto Filter
 - [x] Manuel Filter
 - [x] IMDB
